@@ -16,16 +16,15 @@
   - Laravel
   - MySQL
   
- ## Project View
+## Project View
+### Home Page
+   ![alt text](https://github.com/forhadict/instagram_image/blob/main/git_assets/homepage.PNG?raw=true)
+### Login Page
 
- ### Registration Page
-  ![alt text](https://github.com/forhadict/instagram_image/blob/main/git_assets/registration.PNG?raw=true)
- ### Login Page
+### Profile Page
 
- ### Profile Page
+### Edit Profile Page
 
- ### Edit Profile Page
+### Add New Post Page
 
- ### Add New Post Page
-
- ### News Feed Page
+### News Feed Page
