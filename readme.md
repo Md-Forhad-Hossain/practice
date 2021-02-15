@@ -19,7 +19,7 @@
  ## Project View
 
  ### Registration Page
-  ![alt text](https://github.com/forhadict/instagram/blob/main/git_assets/registration.PNG?raw=true)
+  ![alt text](https://github.com/forhadict/instagram_image/blob/main/git_assets/registration.PNG?raw=true)
  ### Login Page
 
  ### Profile Page
