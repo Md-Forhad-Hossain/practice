@@ -18,7 +18,7 @@
   
 ## Project View
 ### Home Page
-   ![alt text](https://github.com/forhadict/instagram/blob/main/instagram_image/registration.PNG?raw=true)
+   ![alt text](https://github.com/forhadict/instagram/blob/main/instagram_image/register.PNG?raw=true)
 ### Login Page
 
 ### Profile Page
